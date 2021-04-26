@@ -2,7 +2,7 @@ import math
 import sys
 
 __author__ = 'Anto et Vico'
-__Filename = 'ElephantWalk'
+__Filename = 'Walks'
 __Creationdate__ = '18/02/2021'
 
 import random as rand
