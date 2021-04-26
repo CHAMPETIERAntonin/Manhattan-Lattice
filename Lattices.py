@@ -1,4 +1,4 @@
-__author__ = 'Antonin'
+__author__ = 'Anto et Vico'
 __Filename = 'LatticeBase'
 __Creationdate__ = '10/03/2021'
 
@@ -187,5 +187,3 @@ class UnOrderedLattice1D(Lattice):
     def canGoTo(self: 'UnOrderedLattice1D', x: int, y:int):
         return self.isInfinite or  (-self.size / 2 <= x < self.size / 2)
 
-
-Lattice().canGoTo(0,0)
