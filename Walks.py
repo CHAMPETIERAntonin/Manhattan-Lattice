@@ -1,7 +1,7 @@
 import math
 import sys
 
-__author__ = 'Antonin'
+__author__ = 'Anto et Vico'
 __Filename = 'ElephantWalk'
 __Creationdate__ = '18/02/2021'
 
